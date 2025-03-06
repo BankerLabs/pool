@@ -1,0 +1,16 @@
+{
+"serial": 20250301,
+  "pool": {
+    "id": "dc6f409d5bd30a59b7b1f0f7969d83b01758e55d3b4e5b7b487532b8",
+    "status": "active",
+    "contact": {
+      "discord": "https://discord.gg/BankerLabs",
+      "twitter": "BankerLabs"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://raw.githubusercontent.com/BankerLabs/pool/a/icon.png",
+      "logo_png": "https://raw.githubusercontent.com/BankerLabs/pool/a/logo.png",
+      "color_bg": "#000000"
+    }
+  }
+}
