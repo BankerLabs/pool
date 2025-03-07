@@ -1,8 +1,8 @@
 {
-    "serial": 202503072,
+    "serial": 2025030701,
     "pool": {
         "id": "dc6f409d5bd30a59b7b1f0f7969d83b01758e55d3b4e5b7b487532b8",
-        "status": "active",
+        "status": "act",
         "contact": {
             "primary": "email",
             "email": "support@yepple.io",
