@@ -3,5 +3,6 @@
     "description": "The Bank of Cardano. It pays to Bank with us.",
     "ticker": "BANK",
     "homepage": "https://bankerlabs.co",
-    "extDataUrl":"https://raw.githubusercontent.com/BankerLabs/pool/a/ext.json"
+    "extDataUrl":"https://raw.githubusercontent.com/BankerLabs/pool/a/ext.json",
+    "extended": "https://raw.githubusercontent.com/BankerLabs/pool/a/info.json"
 }
